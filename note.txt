@@ -1,0 +1,5 @@
+Loopback 4
+-doc > Todo tutorial
+            * model > dataSource > respository > controller
+
+respository (represents a specialized Service interface that provides strong-typed data access) /// CRUD
